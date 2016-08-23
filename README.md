@@ -1,25 +1,17 @@
-# STM32duino-mini
+## STM32duino-mini
 mini version of stm32duino compatible maple mini
 
 ![stm32duino-mini](Hardware/STM32-Mini.jpg)
-#[![Analytics](https://ga-beacon.appspot.com/UA-67438080-1/STM32duino-mini/readme?pixel)](https://github.com/lembed/STM32duino-mini)
 
 
-#### Hardware ####
+## Content
 
-The "hardware" directory contains the schmatic and pcb files
-
-
-#### Add-on ####
-
-add on for arduino ide
+* Datasheet: chip documents
+* Schematic: pdf file of board schematic
+* Gerber: board gerber file
+* Image: the board images
 
 
-#### Drivers ####
-
-The "drivers" directory contains the drivers for Microsoft Windows.
-
-
-
-This product is open source!
-Please review the LICENSE.md file for license information. 
+## License
+[MIT](https://raw.githubusercontent.com/Lembed/Lembed-STM32mini-Hardware/master/LICENSE)
+#[![Analytics](https://ga-beacon.appspot.com/UA-67438080-1/Lembed-STM32mini-Hardware/readme?pixel)](https://github.com/lembed/Lembed-STM32mini-Hardware)
